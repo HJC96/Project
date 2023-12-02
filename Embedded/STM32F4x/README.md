@@ -1,7 +1,9 @@
 # STM32F4x
 
-ARM Cortex-M4 계열의 프로세서를 포함한 뉴클레오보드를 이용
-C++ 기반의 RTOS인 Mbed-OS 이용
+- ARM Cortex-M4 계열의 프로세서
+- Compiler
+  - C++ 기반의 Mbed-OS 이용
+  - https://os.mbed.com/mbed-os/
 
 ### 프로젝트 시나리오
 1.	터미널을 이용하여 Digital potentiometer의 값을 변화시킨다.
